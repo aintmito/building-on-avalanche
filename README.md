@@ -135,6 +135,8 @@ contract DegenToken is ERC20, Ownable {
 
 * Once the contract is deployed, you can interact with it by checking the name, owner, symbol, and totalSupply variables to check their values. After checking their values, in the left-hand sidebar, scroll up so you can check the "Account" that gives example addresses that you can use for testing the program and copy the default address that is already selecting in the dropdown menu.
 
+* To check the transactions, visit the website https://testnet.snowtrace.io/address/0x9A8E94385874Bbd6717477665Ecbb0aB1e23B28A.
+
 ## Authors
 
 [Miguel Andre Encomienda](https://www.linkedin.com/in/miguel-encomienda-526593292/)
